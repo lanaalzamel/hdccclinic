@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196568841963",
+    "project_id": "hdcc-5866f",
+    "storage_bucket": "hdcc-5866f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196568841963:android:441592a321e8c34c1e08ae",
+        "android_client_info": {
+          "package_name": "com.example.hdccapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG3FjX_MHgLe1sKf6krbIwBLjPFCEN22U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
